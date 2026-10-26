@@ -1,0 +1,7 @@
+# Never upload: servers, worlds, Java, backups, and the CurseForge API key (data/config.json)
+data/
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
